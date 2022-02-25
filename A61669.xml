@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon upon I Kings 17, 15, of the widow of Sarepta preached at Eaton Coll. Octob. 10, 1666 : being a solemne fast in consideration of the dreadfull fire in the citie of London / by David Stokes ...</title>
+            <author>Stokes, David, 1591?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61669</idno>
+            <idno type="STC">Wing S5720</idno>
+            <idno type="STC">ESTC R34622</idno>
+            <idno type="EEBO-CITATION">14524304</idno>
+            <idno type="OCLC">ocm 14524304</idno>
+            <idno type="VID">102525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1072:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon upon I Kings 17, 15, of the widow of Sarepta preached at Eaton Coll. Octob. 10, 1666 : being a solemne fast in consideration of the dreadfull fire in the citie of London / by David Stokes ...</title>
+                  <author>Stokes, David, 1591?-1669.</author>
+               </titleStmt>
+               <extent>[2], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Hull for Ric. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Kings, 1st, XVII, 15 --  Sermons.</term>
+               <term>Fast-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102525:1"/>
+            <pb facs="tcp:102525:1" rendition="simple:additions"/>
+            <p>A SERMON Upon 1 KINGS 17.15. of the Widow of SAREPTA PREACHED AT <hi>Eaton</hi> Coll: Octob: 10. 1666.</p>
+            <p>Being a Solemne Faſt in conſideration of the dreadfull Fire in the Citie of <hi>London.</hi>
+            </p>
+            <p>By DAVID STOKES D. D.</p>
+            <p>
+               <hi>OXFORD</hi> Printed by <hi>Hen: Hall</hi> for <hi>Ric: Davis.</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:102525:2"/>
+            <pb n="1" facs="tcp:102525:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 KINGS 17.15.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Abiit &amp; fecit</hi>— She went and did according to the word of Elijah—</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Y His MAjESTIES Pro<g ref="char:EOLhyphen"/>clamation, we are comman<g ref="char:EOLhyphen"/>ded to meete here this day, Not onely to bewaile thoſe ſins, wherein we have con<g ref="char:EOLhyphen"/>tributed to the common ca<g ref="char:EOLhyphen"/>lamity, and (like incendiaries) either kind<g ref="char:EOLhyphen"/>led, or increaſed the late dreadfull Fire in our great and noble City of <hi>London.</hi> But beſides that, we are commanded to expreſſe our cha<g ref="char:EOLhyphen"/>rity too, in a Liberall Contribution to the pooreſt of the City, that ſuffer moſt heavily.</p>
+            <p>Now for the firſt Duty [of ſad Repen<g ref="char:EOLhyphen"/>tance] I think I ſhall need to ſay little at
+<pb n="2" facs="tcp:102525:3"/>this time, becauſe I preſume your many former Faſts (in a ſenſe of Warre, and In<g ref="char:EOLhyphen"/>fection) have already ſhowed that, before Almighty God himſelfe. But in this Faſt, our moſt Gratious and Indulgent King (in His tender love to His great city) would have us to let him ſee our extraordinary Acts of Charity, upon ſo publick, and ſo ſad an af<g ref="char:EOLhyphen"/>fliction.</p>
+            <p>Therefore He recalls to your memory a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as the <hi>Helleniſts</hi> call it) that is, a fiery triall, to ſee whether upon ſo great an occa<g ref="char:EOLhyphen"/>ſion, you are apt to admit large charitable thoughts, and interpret them in the deare language of Contribution, which will be this day uſed throughout all the Kingdome. In which thoughts, and acts, and language of Charity, that the pooreſt may be as for<g ref="char:EOLhyphen"/>ward as the rich (to their power in ſuch an exigence) I have choſen a Text, which will ſhow you a rare Patterne of Charity in a poore Widow. 1 <hi>Kings</hi> 17.15. <hi>Abiit &amp; fecit</hi>—</p>
+            <p>Of which words, that we may ſo Speake, and ſo Heare—<hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <pb n="3" facs="tcp:102525:3"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>1 KINGS 17.15.</hi>
+                     </bibl>
+                     <p>And ſhe went and did according to the Word of <hi>Elijah,</hi> and ſhe, and he, and her houſe did eate many dayes.</p>
+                  </q>
+               </epigraph>
+               <p>If you aske <hi>of whom this is ſpoken</hi>— It is ſpoken of <hi>a poore Prophet</hi> (<hi>Elijah</hi> the <hi>Tiſhbite</hi>) and <hi>a poore widow</hi> (the Widow of <hi>Sarepta.</hi>) The Prophet is ſo poore, that (wanting the former ſupply of meat which he had by a Raven, and the brooke <hi>Cherith,</hi> of which he uſually drunke, being dried up) he comes a<g ref="char:EOLhyphen"/>broad now as a plaine Begger; for a little water and a morſell of bread: and the wi<g ref="char:EOLhyphen"/>dow is ſo poore, that if you believe her up<g ref="char:EOLhyphen"/>on her oath, ſhe hath not a piece of bread, to beſtow upon her ſelfe, and her onely ſonne. <hi>As the Lord thy God liveth</hi> (ſaith ſhe) <hi>I have not a cake, but a handfull of meale in a barrell, and a little oyle in a cruſe; and behold I am ga<g ref="char:EOLhyphen"/>thering two or three sticks, that I may goe in and dreſſe it for mee and my ſonne, that wee may eate, and die.</hi>
+               </p>
+               <p>Here is <hi>poore encouragemeut for Elijah,</hi> and little hope of finding hoſpitality in her
+<pb n="4" facs="tcp:102525:4"/>houſe; and therefore, ſure, he was hard dri<g ref="char:EOLhyphen"/>ven now, that he begins with her, or at leaſt, they were all ſhrowdly put to it, as they were indeed. So ill it was with them, that hee could hardly have begged of any that had much to ſpare.</p>
+               <p>But there is more in it then ſo. Some<g ref="char:EOLhyphen"/>what elſe there was, that made our Saviour ſay of her, to them of <hi>Nazareth, Luk.</hi> 4. <hi>I tell you of a truth, that many widowes there were in Iſrael, in the dayes of Elijah (when the heavens were ſhut up three yeares, and ſix months) but to none of them was Elijah ſent, ſave unto Sarepta a City of Sidon, to a woman there that was a widow.</hi>
+               </p>
+               <p>
+                  <hi>Some rare good woman ſhe was, whom God had thus ſingled out, in this great famine,</hi> to ſo high a favour of miraculous preſervation, and (from all other) ſelected, <hi>and ſet apart to be the Hoſteſse,</hi> and <hi>Benefactreſſe, to the great Elijah.</hi>
+               </p>
+               <p>That ſhe was ſo, it will eaſily be diſcove<g ref="char:EOLhyphen"/>red in the whole force, and vertue of the verſe, which referres eſpecially to her.</p>
+               <pb n="5" facs="tcp:102525:4"/>
+               <p>And that two wayes, <hi>which are the two parts of the Text.</hi>
+               </p>
+               <p n="1">1. In the high <hi>commendation of her Charity</hi> (<hi>Abiit &amp; fecit juxta verbum Eliae.</hi> There is a proofe of her charity in every word.)</p>
+               <p n="2">2. In the <hi>preſent reward of her Charity</hi> (in her meale and oyle miraculouſly increaſed) <hi>She, and he, and her houſe, did eate many dayes.</hi>
+               </p>
+               <p>There is <hi>the Preſervation of them all</hi> alive, by the <hi>multiplying of the widows ſtore:</hi> where<g ref="char:EOLhyphen"/>of ſhe had ſo charitably emptied her ſelfe upon the Prophet.</p>
+               <p>Or if you will have <hi>both theſe Parts</hi> of the verſe (like ſeverall degrees) <hi>to make up the height of her commendation.</hi>
+               </p>
+               <p>In the firſt part of the verſe, it is but <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> In the ſecond part it is charity and ſome<g ref="char:EOLhyphen"/>what more: it is improved, and come <hi>up to Hoſpitality.</hi>
+               </p>
+               <p>She grows rich with her vertues, and be<g ref="char:EOLhyphen"/>ing not able to furniſh him at preſent, with a piece of bread, ſhe now becomes like ſome body, <hi>able to entertaine him at her houſe,</hi> as a Prophet: with a competent ſupply of all that he wanted; And <hi>not any longer as a Beg<g ref="char:EOLhyphen"/>ger,</hi>
+                  <pb n="6" facs="tcp:102525:5"/>with a little bread and water for him, while he ſtood without at the gate. For ſhe went and <hi>according to the word of</hi> Elijah, that is, ſhe fetched bread and water for him, while hee ſtood without at the gate.</p>
+               <p>
+                  <hi>Then he, and ſhe, and her houſe did eate to<g ref="char:EOLhyphen"/>gether many dayes.</hi> That is, ſhe lodged, and entertained him in her houſe: and ſhewed her ſelfe as hoſpitable <hi>then,</hi> as ſhe had been charitable before.</p>
+               <p n="1">1. <hi>The firſt thing then,</hi> that offers it ſelfe to our view, is her charity. And many circum<g ref="char:EOLhyphen"/>ſtances there be <hi>to amplifie that.</hi> Some <hi>in reference to her ſelfe;</hi> ſome in reference to the Prophet. Some in reference to the acti<g ref="char:EOLhyphen"/>on here done, to the order and manner of it. All theſe are conſiderable in this action of the poore woman, and cannot (without injury both to her, and you) be paſſed o<g ref="char:EOLhyphen"/>ver in ſilence.</p>
+               <p>There are foure at leaſt that refer to her ſelf,
+<list>
+                     <item>1. She was a <hi>Woman.</hi>
+                     </item>
+                     <item>2. She was a <hi>Woman</hi> of <hi>Sarepta</hi> a <hi>Sidonian.</hi>
+                     </item>
+                     <item>3. She was a <hi>Widow</hi> woman.</item>
+                     <item>4. She was a <hi>Mother,</hi> and ſhe was not only
+<pb n="7" facs="tcp:102525:5"/>
+                        <hi>Mater familias</hi> (the <hi>M<hi rend="sup">rs</hi> of a family</hi>) but <hi>Ma<g ref="char:EOLhyphen"/>ter filii (the mother of a ſon too.)</hi> And had ſhe been eaſed of the reſt of her family: ſhe <hi>had little enough to keep her ſelfe, and her ſonalive to the next day.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Theſe referre to her ſelfe, (and notwith<g ref="char:EOLhyphen"/>ſtanding all theſe) ſhe went firſt to ſupply the wants of <hi>Elijah.</hi>
+               </p>
+               <p>Other conſiderations there are, <hi>that referre to the Prophet.</hi> And (amongſt theſe) three that are moſt eminent, and muſt not be con<g ref="char:EOLhyphen"/>cealed,
+<list>
+                     <item>1. That he was <hi>A stranger,</hi> one of another country from her;</item>
+                     <item>2. That he was <hi>A Prophet.</hi> and chiefly</item>
+                     <item>3. That he was <hi>This Prophet</hi> (<hi>Elijah</hi> the <hi>Tiſhbite</hi>)</item>
+                  </list>
+               </p>
+               <p>That this man (whom ſhe thus entertaines) was the very Prophet, I doe not ſay that fore<g ref="char:EOLhyphen"/>told this famine (wherein they were all like<g ref="char:EOLhyphen"/>ly to periſh.)</p>
+               <p>But more then ſo,</p>
+               <p>The only man, to whoſe zeale they whol<g ref="char:EOLhyphen"/>ly imputed this miſery:</p>
+               <p>The maine inſtrument that brought it
+<pb n="8" facs="tcp:102525:6"/>upon them, and by whoſe meanes it ſeem<g ref="char:EOLhyphen"/>ed to be ſo long continued.</p>
+               <p>The man that ſaith, in the firſt verſe of this chapter [and in the preſence of the King himſelfe]</p>
+               <p>
+                  <hi>As the Lord God of Iſrael liveth, before whom I ſtand, there ſhall not be dew, nor raine theſe yeares, but according to my word.</hi>
+               </p>
+               <p>He that had ſaid thus, would you thinke that his mouth ſhould be heard, and fed too? and with that food, that is therefore wanting to her ſelfe? would you thinke that her di<g ref="char:EOLhyphen"/>ſtreſſed houſe, ſhould be made a ſanctuary for him, and every thing ſhould be done <hi>(juxta verbum ejus)</hi> as he would have it that brought the famine upon them?</p>
+               <p>It is <hi>a wonder ſhe falls not about his eares,</hi> or (at leaſt) that ſhe doth not <hi>raiſe up the people</hi> againſt him, to <hi>apprehend</hi> him, and <hi>take away his life,</hi> that brought them all in danger of theirs.</p>
+               <p>But in that <hi>ſhe conceales him,</hi> in that ſhee <hi>obeyes</hi> him, in that ſhe <hi>ſaves his life:</hi> and ſaves it <hi>with the hazard of her owne</hi> and her <hi>childs:</hi> can there be any other circumſtance added to this wonder?</p>
+               <pb n="9" facs="tcp:102525:6"/>
+               <p n="3">3. Yes, there can be ſo, for (as I told you) all this referres unto him, but now ſome<g ref="char:EOLhyphen"/>thing there is, that amplifies the <hi>action it ſelfe,</hi> from <hi>the order,</hi> and <hi>the manner</hi> of it.</p>
+               <p n="1">1. <hi>Abiit &amp; fecit,</hi> that is, ſhe doth it with <hi>alacrity,</hi> and chearfulneſſe (wherein the life of every good action conſiſts) without any more adoe, <hi>without any further diſpute,</hi> as ſoon as ſhe knew his mind, ſhe went about it.</p>
+               <p>
+                  <hi>Fecit juxta verbum Eliae,</hi> that is, ſhe doth it <hi>in that order that he would have it,</hi> to ſerve him firſt, before ſhe provide for her ſelfe, and her ſonne</p>
+               <p>She <hi>tooke not her owne method of charity</hi> (to begin with her ſelfe and her ſonne) but ſhe <hi>followes that order, that the man of God pre<g ref="char:EOLhyphen"/>ſcribes her,</hi> by ſpeciall diſpenſation.</p>
+               <p>
+                  <hi>Firſt</hi> and <hi>preſently</hi> to begin with him.</p>
+               <p>And thus, you ſee, in all there be three ſe<g ref="char:EOLhyphen"/>verall wayes by which wee may perceive, the true extent of her charity, Now (to look upon them more diſtinctly.)</p>
+               <p n="1">1. I will begin <hi>first, with thoſe that reflect upon her ſelfe,</hi> and (in that ranke) firſt to con<g ref="char:EOLhyphen"/>ſider her as <hi>a woman.</hi>
+               </p>
+               <pb n="10" facs="tcp:102525:7"/>
+               <p>
+                  <hi>She went, and did according to the word of Elijah,</hi> we are here provoked to oemulation by the weaker Sex.</p>
+               <p>And it muſt be confeſſed, that as in many other vertues, by <hi>Deborah,</hi> by <hi>Hannah,</hi> by the foure <hi>Maryes,</hi> (and ſome of that ranke) ſo here in the workes of charity: we have a <hi>Copy ſet by a ſilly woman:</hi> I will not ſay that the greateſt Ladies, and Dames may learne to take out, but I will ſay more, that never any of the Nobler ſex have come ſo neare, as to expreſſe it, in all things, to the life.</p>
+               <p>And I <hi>would they had onely out-stript us in Charity,</hi> to which <hi>(being more tender hearted)</hi> perhaps we may perſwade them, that they are more inclinable by nature) but I feare they have ſometimes had the happineſſe to be <hi>able to inſtance a preheminence in ſomething elſe.</hi>
+               </p>
+               <p>I will not conceale what Saint <hi>Chryſoſtome ſaith of his time,</hi> (on <hi>Epheſ.</hi> 4.) that things were come to that paſſe: Men were growne ſo effeminate, ſo proud, ſo inconſtant, ſo phan<g ref="char:EOLhyphen"/>taſticall, and women, on the contrary, ſo la<g ref="char:EOLhyphen"/>borious, ſo diſcreet, and ſo reſolute, that he
+<pb n="11" facs="tcp:102525:7"/>thought it might be a queſtion <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; [if it were Engliſhed, ſuch a queſti<g ref="char:EOLhyphen"/>on from ſuch a one as <hi>Chryſoſtome,</hi> would pleaſe ſome women too much] And at <hi>this time,</hi> whereof we read in my Text, there was <hi>no piety matchable to that of the great Prophet</hi> Elijah, <hi>but onely that of</hi> Oba<g ref="char:EOLhyphen"/>diah, that hid ſo many Prophets in a cave, and this of the woman, to whom <hi>Elijah</hi> came. And I doubt not, but <hi>Chryſoſtome</hi> was of opinion, that in ſome reſpects, ſhe exceed<g ref="char:EOLhyphen"/>ed the great <hi>Elijah,</hi> and <hi>Obadiah</hi> too.</p>
+               <p>For he ſeemes to conceive <hi>Elijah</hi> carried a little too farre in his zeale, and perhaps brought hither to be ſchooled of this wo<g ref="char:EOLhyphen"/>man; not ſo much by obſerving her want and milery, as by ſeeing her wonderfull and <hi>Charitable affection,</hi> that,<note place="margin">Chryſ. Yom. <hi>8.</hi> pag. <hi>31.</hi> (H.S.)</note> when he begged of her, preſently welcomed him with all her ſtore: Him, that was in no greater ſtreights then ſhe her ſelfe: Him, that had not, beſides himſelfe, a family alſo, to provide for, as ſhe had: and laſtly, Him, that being thus heard, at his firſt begging from her, yet would not ſo much as begge, and ſolicite his God by
+<pb n="12" facs="tcp:102525:8"/>prayers, for the releaſe of hers, and the com<g ref="char:EOLhyphen"/>mon calamity.</p>
+               <p>
+                  <hi>O woman great is thy Charity!</hi>
+               </p>
+               <p>
+                  <hi>I ſay not this to make women proud,</hi> that are commonly too apprehenſive of any fewell, fit for that vice to feed on, but <hi>to encourage them,</hi> and withall <hi>to rouſe up the guides,</hi> and Lords of the weaker Sex; that ſo we may have <hi>Omnia benè:</hi> Women being (after ſo good patternes and praecedents) ambitious of all vertue, to the higheſt capacity of their nature, and men expreſſing by their actions, that they move in a higher Spheare, and are as worthy of preheminence, as they are rea<g ref="char:EOLhyphen"/>dy to challenge it by a grant, and patent, from the maker of them both.</p>
+               <p>
+                  <hi>But I goe on.</hi>
+               </p>
+               <p>We have looked upon this Charitable per<g ref="char:EOLhyphen"/>ſon in her Sex.</p>
+               <p n="2">2. Now we come (in the ſecond place) to conſider her in her country, <hi>as ſhe was a Sidonian</hi> a woman of <hi>Sarepta;</hi> how ſhe, that was ſo, went and did according to the word of <hi>Elijah.</hi>
+               </p>
+               <p>
+                  <hi>Sidon</hi> was a City in <hi>Syria,</hi> by the Sea ſide,
+<pb n="13" facs="tcp:102525:8"/>and bordering upon <hi>Iudaea,</hi> a very ancient and famous City, from whence, it ſeemes, the whole Territory thereabout were called <hi>Sidonians.</hi>
+               </p>
+               <p>Among them is <hi>Sarepta,</hi> a leſſer and more obſcure Towne,<note place="margin">And. Maſius in Joſ.</note> ſome <hi>ſix miles from Sidon,</hi> and a place (as it was conjectured by the name) where they were wont to melt, and faſhion diverſe mettals.</p>
+               <p>This Country of the <hi>Sidonians,</hi> was whol<g ref="char:EOLhyphen"/>ly <hi>overſpread with groſs Idolatry.</hi> And yet, you may ſee, by the manner of her oath, if there were no more, that <hi>in the midſt of wic<g ref="char:EOLhyphen"/>ked Pagans, ſhe ſerved the true God.</hi> And ſhe ſerved him <hi>in no ordinary meaſure,</hi> as ap<g ref="char:EOLhyphen"/>peares by this <hi>high degree of Charity.</hi>
+                  <note place="margin">Mat. <hi>25.</hi>
+                  </note> A <hi>ver<g ref="char:EOLhyphen"/>tue that hath the Keyes of Heaven,</hi> and by which only it may ſeem, God will pro<g ref="char:EOLhyphen"/>nounce his ſentence of bleſſing and curſing, at the laſt day, as if no other vertue were of like value with that.</p>
+               <p>And no mervaile, For it is a vertue of ſo large uſe and extent that it may be called, the <hi>Miſtris of the rich,</hi> the <hi>Mother of the</hi> Poor, the <hi>Patroneſſe of Widowes,</hi> the <hi>Nurſe of little Or<g ref="char:EOLhyphen"/>phans,</hi>
+                  <pb n="14" facs="tcp:102525:9"/>the ſtore-houſe <hi>and Treaſure of the needy,</hi> and the common haven and <hi>refuge</hi> of all that are afflicted.</p>
+               <p>And in this virtue doth ſhe excell.</p>
+               <p>Neither is it charity alone, for which this <hi>Sidonian</hi> of <hi>Sarepta</hi> is ſo admirable in her felfe. A great and <hi>wonderfull Faith</hi> is the root, and commendation of this charity; and all her charity is but <hi>the fruit, and evidence of a lively Faith.</hi>
+               </p>
+               <p>Nor have I yet ſaid all, <hi>It is Faith accompa<g ref="char:EOLhyphen"/>nied with obedience to God and his Prophet:</hi> a Faith wherein <hi>ſhe caſt her ſelfe upon God's Providence,</hi> reſolving, (ſince the Prophet would have it ſo) to feed him with that, with which, onely being left, ſhe had in<g ref="char:EOLhyphen"/>tended to preſerve her owne life, and the life of her child. She ſtopt her eares to the cry of her faint and hungry child, and <hi>Abiit &amp; fecit.</hi>
+               </p>
+               <p>An argument of ſuch a Faith in this <hi>Si<g ref="char:EOLhyphen"/>donian</hi> of <hi>Sarepta,</hi> as was not now to be found in all Iſrael:<note place="margin">3 <hi>Cor.</hi> 1.27.</note> 
+                  <hi>So eaſily do the weake things of this world confound the things that are migh<g ref="char:EOLhyphen"/>ty, &amp;c. The fooliſh things of the world con<g ref="char:EOLhyphen"/>found
+<pb n="15" facs="tcp:102525:9"/>the wiſe:</hi> And the very <hi>Heathen ſhame the open Profeſſors</hi> of true religion.</p>
+               <p>Many of thoſe profeſſors (not content with their owne) defraud, and oppreſſe, and de<g ref="char:EOLhyphen"/>taine from others, that which is their due, but this <hi>Sidonian,</hi> in extremity of poverty, could <hi>part with all that ſhe had</hi> of her owne.</p>
+               <p>Many great profeſſors are loath to give upon extraordinary knowne and publique occaſions, but here is a <hi>Sidonian,</hi> that wil<g ref="char:EOLhyphen"/>lingly empties her ſelfe in a private act of Charity. An act that will yet appeare the greater if you will now pleaſe to conſider,</p>
+               <p n="3">3. <hi>Her as a widow woman too.</hi> For ſo ſhe was, and yet, <hi>Abiit &amp; fecit.</hi>
+               </p>
+               <p>If any might be excuſed from deeds of charity, ſurely a poore widow might be ſo, but here is a good poore widow, that dreams of no ſuch priviledge, annexed either to her poverty, or to her widowhood, or to her virtue, or to any thing elſe.</p>
+               <p>She might have ſaid, Alas! I am a poore widow, that labour hard for what I have.</p>
+               <p>You ſee I have none in my houſe, ſo much at leaſure as to gather mee a few
+<pb n="16" facs="tcp:102525:10"/>ſticks: and yet, with all our paines, we have hardly enough to keep life &amp; ſoule together.</p>
+               <p>What almes do you expect from mee? ſhe might have ſaid ſo, and many, in her caſe, would have ſaid it, but ſhe, good ſoule, lookes for none of theſe ſhifts. <hi>If ſhe got any thing by ſtrength and labour,</hi> ſhe was <hi>willing to ſacrifice it unto him that beſtowed that ſtrength</hi> of body upon her.</p>
+               <p>In her greateſt extremity, ſhe was <hi>not ſo haſty to carve for her ſelfe,</hi> but that ſhe had <hi>rather be poorer in meanes,</hi> if ſo ſhee might prove her ſelfe to <hi>be richer in love to him,</hi> that ever highly prized a little, given by them, that have but a little.</p>
+               <p>It would not be amiſſe for us, to be think our ſelves how much our love comes ſhort of thoſe many circumſtances, that make a wonder of hers, that ſo we may, with the great <hi>Elijah</hi> here, <hi>borrow a little of her oyle,</hi> to encreaſe, and <hi>keep in the fire of our Charity.</hi>
+               </p>
+               <p>Then may we perhaps ſay, with Saint <hi>Baſil</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">S.B. concion. habit. in Fam. &amp; Siccit.</note> 
+                  <hi>If all our ſtore were brought to one loafe and a poore ſoule ſhould truly want it, and aske for it, that one loafe muſt be kept
+<pb n="17" facs="tcp:102525:10"/>no longer in our ſtore.</hi>
+               </p>
+               <p>
+                  <hi>Durus ſermo,</hi> you will ſay, but what Saint <hi>Baſil hath ſaid, this widow hath done.</hi>
+               </p>
+               <p>Nay ſhe hath <hi>done more,</hi> for, ſhe had not actually ſo much as a loafe, ſhe had but the <hi>poore materialls</hi> of a loafe that might be: <hi>and ſhe doth both make it for him, and give it too:</hi> that he might have <hi>her labour and ſervice, as well as her Charity.</hi>
+               </p>
+               <p>And what we have here done by this wi<g ref="char:EOLhyphen"/>dow, that under the teſtimony of two it might be confirmed, we have alſo ſeconded by another widow in the Goſpel, to whom our Saviour gave that open teſtimony of her two mites. That widow gave <hi>all of her owne accord.</hi>
+               </p>
+               <p>And, here in my Text, to take away all A<g ref="char:EOLhyphen"/>pology from thoſe that are rich in meanes, and poore in almes, this poore widow hath done it, at the <hi>Prophets direction:</hi> which is the third thing wherein the extent of her Charity may fully appeare.</p>
+               <p n="4">4. From thence we muſt yet goe further to a fourth <hi>degree of amplification,</hi> that we may looke upon her, as a <hi>Mother,</hi> that under<g ref="char:EOLhyphen"/>valued
+<pb n="18" facs="tcp:102525:11"/>valued the power of naturall affection in a caſe of exigency, for the expreſſion of her Charity.</p>
+               <p>And for this I wot well, that it was a ſin<g ref="char:EOLhyphen"/>gular caſe of particular diſpenſation, and therefore not idlie, or indiſcreetly to be followed, with prejudice to the neceſſary ſupply of Kindred and Family.</p>
+               <p>But I look upon it here, as a thing that ſhe eaſily, and <hi>willingly</hi> did, <hi>never going about the buſh,</hi> to ſhelter a covetous, and <hi>uncharitable mind, under the name of common Providence,</hi> and naturall affection, <hi>but making her Mo<g ref="char:EOLhyphen"/>therhood,</hi> with ſuch eaſe and chearfulneſſe, give <hi>way to her Charity,</hi> as if ſhe had went to teach all <hi>Parents,</hi> in this one act of hers, that <hi>ſeaſonable Charity</hi> ſhould rather <hi>prove them to be wiſe, and carefull Parents,</hi> then any way improvident, and forgetfull of their Children. A truth moſt certaine and unde<g ref="char:EOLhyphen"/>niable, whether you examine <hi>it in the poore to whom;</hi> or the Children <hi>and Family from whom</hi> it is given.</p>
+               <p n="1">1. If you conſider the poore.</p>
+               <p>She was not, nor can we beignorant, that
+<pb n="19" facs="tcp:102525:11"/>the poor (by a bleſſing upon their prayers, in our behalfe) may eaſily become <hi>greater Benefactors,</hi> then either we are to the poor, or any that are rich can be to us; For <hi>the rich are full veſſels:</hi> We rather ſpill then poure any thing into them that can be long reſer<g ref="char:EOLhyphen"/>ved, it is well if they belch you out a com<g ref="char:EOLhyphen"/>plement for the preſent, <hi>but the poor are emp<g ref="char:EOLhyphen"/>ty veſsels, capable and fit, whatſoever we pour into them, we treaſure up ſafe</hi> for our ſelves, and ours, to the beſt advantage.</p>
+               <p>It will prove ſo in the meaneſt of them, they that are <hi>blind</hi> can beſt conduct us in<g ref="char:EOLhyphen"/>to the light of Heaven, <hi>the lame</hi> can beſt carry us into Paradiſe, <hi>the ſick</hi> can beſt cure our maladies, <hi>the priſoners</hi> can ſet us ſooneſt at liberty, <hi>the Orphans</hi> can ſureſt provide us of a heavenly Father, and (in a word) the <hi>poor and needy can give us,</hi> and our children the moſt <hi>permanent riches.</hi>
+               </p>
+               <p>We uſually look upon them, as appear<g ref="char:EOLhyphen"/>ing abject and baſe in their perſons, and have quite forgot, <hi>that they have put on the perſon of Chriſt;</hi> for which cauſe our Savi<g ref="char:EOLhyphen"/>our himſelf ſeems to ſpeake of them <hi>as lit<g ref="char:EOLhyphen"/>tle
+<pb n="20" facs="tcp:102525:12"/>Saviours, they ſhall bring you in to ever<g ref="char:EOLhyphen"/>lasting Mamſions</hi> (ſaith he) I know well how thoſe words may be underſtood (in the Hebraiſme) <hi>they ſhall bring you,</hi> that is, the Angels or <hi>they that ſhall be appointed ſo to do,</hi> As (in that other place) <hi>Stulte hac no<g ref="char:EOLhyphen"/>cte auferent, they ſhall take away thy ſoul,</hi> that is, they which ſhall be appointed.</p>
+               <p>But I dare ſay if we have any mediators under Chriſt <hi>next unto the Priests,</hi> theſe are they, their plea, and their accuſation is of great moment.</p>
+               <p>Our Saviour tels us of <hi>no other cauſe, heard in the day of Judgment,</hi> but only theirs. And therefore we have reaſon to think, that <hi>at other times his eares are as open to their pray<g ref="char:EOLhyphen"/>ers</hi> for us.</p>
+               <p>So that hitherto the charity of a mother was well enough beſtowed, in regard of the poor unto whom.</p>
+               <p n="2">2. But we muſt take ſome more paines, to look upon it in that which comes nearer to her particular caſe, <hi>with an eye to her only child, and poor family,</hi> from whom this almes was given.</p>
+               <pb n="21" facs="tcp:102525:12"/>
+               <p>Wherein; to omit that <hi>every man is left as a friend and Patron to the children of ſuch perſons,</hi>
+               </p>
+               <p>To ſay nothing of this,</p>
+               <p>She knew well for whoſe ſake ſhe did it, and ſhe aſſured her ſelfe, that, when all her ſtore was ſpent, <hi>God's Providence was neither ſpent, nor any way more exhauſted,</hi> then it was before; therefore ſhe was ſecure, though (be<g ref="char:EOLhyphen"/>ing a Mother) ſhe parted from all: She took it for a point of <hi>wiſdome to make God her heire,</hi> and (upon ſo good an occaſion) give <hi>all to him, inſtead of a poore legacy to her child:</hi> In which action ſhe hath more <hi>encreaſed her ſtore by ſpending of all;</hi> then any art of ſparing had e<g ref="char:EOLhyphen"/>ver been able, either to compaſſe or contrive.</p>
+               <p>She hath proved her ſelfe <hi>a gatherer, by ſcattering.</hi>
+               </p>
+               <p>She hath proved her Charity <hi>artem omni<g ref="char:EOLhyphen"/>um quaeſtuoſiſsimam.</hi>
+               </p>
+               <p>You that would lay out to the beſt advan<g ref="char:EOLhyphen"/>tage, come hither and learne of her.</p>
+               <p>Would you be ſure <hi>to leave your children rich,</hi> teach them by your own example, to be charitable, and not to love mony, but doing good with mony, for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">Chryſ. Tom. <hi>5.234.</hi> H. Sau,</note>
+                  <pb n="22" facs="tcp:102525:13"/>
+                  <hi>Rich and poore are but parts acted here for a while,</hi> and we may be miſtaken in them.</p>
+               <p>When the <hi>Scene is ended,</hi> when death comes, then it appeares truly who were rich, and who were poore.</p>
+               <p>Then <hi>Lazarus</hi> may be found <hi>in the rich mans boſome,</hi> and <hi>Dives ſo poore,</hi> that <hi>he is faine to begge</hi> of <hi>Lazarus</hi> for one drop of water.</p>
+               <p>Or if you take rich and poore in your owne ſenſe, and for the preſent eſtate; Charity is the ſureſt way to ſpeed for that too: For, what is ſo given is ſafely laid up in God's hands, whence <hi>none is able to ſteale it,</hi> and <hi>from whence you may expect it with encreaſe,</hi> and be ſure never to faile of your expectation.</p>
+               <p>That treaſure which you commit to <hi>the Sea,</hi> to <hi>your Friends,</hi> to <hi>your Servants,</hi> to <hi>your Cheſts,</hi> to <hi>your ſelves,</hi> may eaſily miſcarry; but that which is <hi>lent to God,</hi> who hath all the treaſure of Heaven and earth at his com<g ref="char:EOLhyphen"/>mand, and can not forget how much we are in his Books, That cannot <hi>but returne with intereſt:</hi> no debtor can aſſure us of ſuch cer<g ref="char:EOLhyphen"/>taine pay, as he alwayes performes: ſooner may we out-runne our owne ſhadow, then
+<pb n="23" facs="tcp:102525:13"/>any way exceed God's favour to us, by the love that we, for his ſake, expreſſe to others.</p>
+               <p>And if all theſe things be ſo, why do we not, by this example here, follow after <hi>Cha<g ref="char:EOLhyphen"/>rity as a virtue, wherein both our</hi> owne wel<g ref="char:EOLhyphen"/>fare, <hi>and the welfare of children and family,</hi> doth chiefly conſiſt.</p>
+               <p>Why do we <hi>stretch the deſires,</hi> and attempts of our purchaſe, <hi>beyond the true bounds?</hi> Why are we ſo little affected with the preſent ne<g ref="char:EOLhyphen"/>ceſſity of the poore, while we are <hi>ſo tender of the meer imaginary wants, that may perhaps, I know not when, befall</hi> our poſterity? Why do we <hi>deſtinate</hi> this, <hi>and that,</hi> and almoſt all we can finger, as ſtrictly and immoveably to our children, <hi>as if we could make Lawes to God's Providence,</hi> and what he hath given us, in<g ref="char:EOLhyphen"/>fallibly reſerve, to be ſo, and ſo diſtributed, at our pleaſure; or, <hi>as if God had no more for them,</hi> but onely that which we can leave them?</p>
+               <p>I ſhall eaſily grant, that great care muſt be taken in theſe caſes, and that therein a <hi>ſingle man may have much advantage:</hi> But, for all that, under pretence of this, we muſt not ſo
+<pb n="24" facs="tcp:102525:14"/>magnifie their wants that may be, that we undervalue the preſent and extreame wants of the poore; <hi>That is a way to treaſure up cruel<g ref="char:EOLhyphen"/>ty</hi> that may light upon our ſelves and ours hereafter.</p>
+               <p>Nor muſt we make uſe of <hi>that providence of ours,</hi> for a colour to ſerve our own turn, as we often do.</p>
+               <p>How elſe comes it to paſſe, <hi>that in a ſuite at law</hi> (by way of revenge) <hi>to ſpend a whole eſtate,</hi> any brave ſparke would be induced to do it?</p>
+               <p>How is it, that if <hi>a Paraſite</hi> or <hi>worſe com<g ref="char:EOLhyphen"/>panion</hi> come in the way, <hi>we can be free, and frolick,</hi> and in neither of theſe caſes, trouble our ſelves with care of poſterity?</p>
+               <p>
+                  <hi>But if a good work call for our contribution,</hi> we cannot hear of that eare; if a poor man beg our almes, we ſhrink up the ſhoulders, and begin to take thought for wife and chil<g ref="char:EOLhyphen"/>dren; That is then readieſt at hand to ſhift of our good deeds.</p>
+               <p>Will you hear <hi>how St Baſil takes away this hindrance?</hi>
+                  <note place="margin">Tom <hi>3.</hi> pag: <hi>467.</hi> Hom. <hi>20.</hi> H.S.</note>
+               </p>
+               <p>
+                  <hi>VVhen thou comeſt to God</hi> (ſaith he) <hi>to beg
+<pb n="25" facs="tcp:102525:14"/>wife or Children, or friends, doſt thou frame thy prayer thus?</hi>
+               </p>
+               <p>
+                  <hi>Good Lord, give me wife and children, and friends, that while I embrace them, and joy in them, and lay up for them, I may be excuſed from other Chriſtian duties.</hi>
+               </p>
+               <p>
+                  <hi>Bestow them upon me,</hi> and then I <hi>ſhall be lother to relieve the poor,</hi> or give to the like pious uſes, or any ſuch way to put my ſelf into thy ſervice, or believe that thy provi<g ref="char:EOLhyphen"/>dence will extend to them, as to me it hath.</p>
+               <p>Were not theſe fair conditions, to be com<g ref="char:EOLhyphen"/>menced in ſuch a ſuite? were not this <hi>a fair plea to ſave our purſes?</hi> Can we ima<g ref="char:EOLhyphen"/>gine that God gives us our Children to make us covetous, or <hi>will we ſo requite him</hi> for ſo great a bleſſing?</p>
+               <p>Nay rather let us think him a wiſe man, that leaves nothing to them of that, which (in all reaſon) ſhould have been imparted to the neceſſity of the poore. For one penny, I do not ſay unjuſtly gotten; but <hi>one penny uncharitably kept,</hi> may <hi>eat up twenty other</hi> that lie about it, and therefore the Widow here
+<pb n="26" facs="tcp:102525:15"/>takes not the care and wiſdome of a Mo<g ref="char:EOLhyphen"/>ther, by giving that to the preſent ſupply of <hi>Elijah,</hi> that might rather ſeem fit to have been reſerved for the preſervation of her ſon.</p>
+               <p>But every way wherein we look upon her, ſhe is higher then our praiſe and admi<g ref="char:EOLhyphen"/>ration.</p>
+               <p>For (that I may now cloſe up this firſt re<g ref="char:EOLhyphen"/>ference) we have ſeen her here <hi>a poore woman of Sarepta,</hi> one that dwelt in the midſt of Ido<g ref="char:EOLhyphen"/>laters, <hi>one that hardly ever heard a ſerious diſ<g ref="char:EOLhyphen"/>courſe of Charity,</hi> one that never was ſo <hi>char<g ref="char:EOLhyphen"/>med with the high</hi> reward of <hi>Venite benedicti,</hi> as we have all been (I dare ſay) again &amp; again:</p>
+               <p>Yet this woman of <hi>Sarepta,</hi> this widow, this Mother, <hi>this poore distreſſed mother,</hi> will have <hi>Charity enough to ſhame us all,</hi> if we look not better about us.</p>
+               <p>Neither her Country education, nor her widowhood, nor her poverty, nor her own hunger, nor her naturall affection to her on<g ref="char:EOLhyphen"/>ly ſonne, nor the feare of death, nor any thing could hinder her liberality: <hi>that never had halfe the knowledge, and meanes, and mo<g ref="char:EOLhyphen"/>tives
+<pb n="27" facs="tcp:102525:15"/>unto it,</hi> that we have had.</p>
+               <p>And yet we have ſaid but litle, we have onely ſpoke of ſo much as reflects upon her owne perſon; from thence we <hi>come now to looke upon it in reference to the Prophet,</hi> vvhere<g ref="char:EOLhyphen"/>in vve have <hi>three ſteps,</hi> Firſt as it <hi>was done to a Stranger:</hi> Secondly, as it vvas done to a <hi>Pro<g ref="char:EOLhyphen"/>phet:</hi> And thirdly, as it vvas done to <hi>this Prophet.</hi>
+               </p>
+               <p n="1">1. Firſt then, though ſhe have but little to give, <hi>ſhe makes no ſcruple to beſtow it all upon a meere stranger,</hi> that was in want; and ſo may we be <hi>affected to strangers</hi> upon the like grounds.</p>
+               <p>We have God's <hi>Praecept</hi> for it to the Iſrae<g ref="char:EOLhyphen"/>lites, <hi>Forſake not the ſtranger ſo long as thou liveſt.</hi> We have <hi>God's example</hi> for it (in his bounty to all) <hi>Et ne alicui quod Dominus communiter tribuit denegemus,</hi> (ſaith St <hi>Hierome</hi>) if God have beſtowed his riches indifferently upon all Nations, why ſhould we doubt to be<g ref="char:EOLhyphen"/>ſtow our riches as he hath done?</p>
+               <p>And laſtly, we have alſo the <hi>Practice of the Saints of God;</hi> amongſt them we <hi>find Abra<g ref="char:EOLhyphen"/>ham, lying in wait for ſtrangers</hi> at the dore of
+<pb n="28" facs="tcp:102525:16"/>his Tent, and when he found them, <hi>not ad<g ref="char:EOLhyphen"/>miniſtring queſtions</hi> and interrogations, like a Judge that were to examine, but, like a cha<g ref="char:EOLhyphen"/>ritable and hoſpitable man, with all honour &amp; readineſſe, <hi>imbracing the opportunity of their entertainment.</hi>
+               </p>
+               <p>For which cauſe he was often honoured with the entertainment of Angels. As this poore widow is here likewiſe honoured with the entertainment of a <hi>great Prophet.</hi>
+               </p>
+               <p n="2">2. The ſecond thing to which now I ha<g ref="char:EOLhyphen"/>ſten, and which was a greater motive to her; That he was a <hi>Stranger,</hi> was <hi>rather a reſpect for which ſhe did not refuſe him,</hi> but <hi>that he was a Prophet,</hi> hence came <hi>the extraordinary</hi> mea<g ref="char:EOLhyphen"/>ſure of her Charity in this place.</p>
+               <p>For whatſoever ſhe did, ſhe did it <hi>for the love and honour of God,</hi> and therefore now ſo readily, and freely, and amply, when ſhe light upon <hi>a ſervant and Prophet of his.</hi>
+               </p>
+               <p>And this is ever <hi>the ſcope of true and perfect Charity, not to aime at vaine glory,</hi> not to be led with <hi>hope</hi> of <hi>any temporary reward,</hi> not to be moved to it with meere <hi>naturall pitty,</hi> not to have an eye to any thing elſe, but the love and glory of God.
+<pb n="29" facs="tcp:102525:16"/>This is true wiſdome, &amp; perfect Charity, <hi>nei<g ref="char:EOLhyphen"/>ther to looke upon her ſelfe</hi> through the poore, nor <hi>otherwiſe to looke upon the poore,</hi> but remo<g ref="char:EOLhyphen"/>ter, or nearer, as they ſtand in ſome reference to God himſelfe. And that ſhould we learn to do, to relieve a <hi>Chriſtian</hi> in the name of a Chri<g ref="char:EOLhyphen"/>ſtian, and a <hi>Prophet in the name of a Prophet.</hi>
+               </p>
+               <p>For; <hi>barely to relieve</hi> is <hi>an act of nature,</hi> we cannot but love &amp; pitty, if we are ourſelves, and therefore our kindneſſe goes under the name of <hi>humanity,</hi> as being the proper, and pe<g ref="char:EOLhyphen"/>culiar affection of man. So that in the reliefe of others, it may fall out, that we only follow <hi>the dictate of nature,</hi> but that is far ſhort of the widows Charity here.</p>
+               <p>A Charity that ſhe prefers, not only before naturall affection, but even before that <hi>kind of naturall affection that we ſhow to our children</hi> (the moſt powerfull of all) In caſe that a Pro<g ref="char:EOLhyphen"/>phet comes to want, ſhe makes her <hi>divine af<g ref="char:EOLhyphen"/>fections farre predominant</hi> above her <hi>naturall:</hi> ſhe pincheth her ſelfe, and her ſon, to ſupply the wants of a Ghoſtly Father.</p>
+               <p>This ſhe hath done.</p>
+               <p>But I feare there is <hi>a generation of men</hi> in theſe
+<pb n="30" facs="tcp:102525:17"/>dayes, that would have been <hi>otherwiſe affect<g ref="char:EOLhyphen"/>ed</hi> with the Prophets caſe.</p>
+               <p>We ſhould have no <hi>(abiit &amp; fecit)</hi> with them, they would rather have ſaid, what, is the <hi>great Prophet come a begging?</hi> that is a good ſight, the <hi>minor Prophets</hi> will ſerve our turne, or a few good <hi>mendicant Prieſts,</hi> or ſome like <hi>Ieroboams of the meaneſt of the people,</hi> that is, as we would have it, and then could we <hi>ſweetly ſhare their ſpirituall portions</hi> amongſt us.</p>
+               <p>This ſome would have ſaid. Such as are ſo farre from being Charitable themſelves, that they <hi>long to take away the Charity of others,</hi> and ſwallow that of our ancient right, which for<g ref="char:EOLhyphen"/>mer Church-devourers, <hi>have left behind them</hi> againſt their will, <hi>or been forced</hi> (in themſelves or their poſterity) <hi>to cast up againe.</hi>
+               </p>
+               <p>Surely ſuch men have not read that (in <hi>Ma<g ref="char:EOLhyphen"/>lachy</hi>) which came from God's own mouth. <hi>Bring my tithes into my barne, and trie if I do not poure a bleſsing upon you.</hi>
+                  <note place="margin">
+                     <hi>Mal.</hi> 3.10.</note>
+               </p>
+               <p>They conſider not what this widow could have told the<g ref="char:cmbAbbrStroke">̄</g>, that if <hi>God ſo accept of that, which (being due) is given</hi> to his Prieſts and Prophets, he could not but highly prize a liberall, and
+<pb n="31" facs="tcp:102525:17"/>charitable hand towards them, when they are in need.</p>
+               <p>But this widows Charity went higher ſtill.</p>
+               <p>It will ſeeme but a ſmall thing, that ſhe did it <hi>to a ſtranger, to a Prophet,</hi> if you will now conſider it, as done to <hi>this Prophet,</hi> to <hi>Elijah.</hi>
+               </p>
+               <p>How is that you will ſay, to <hi>Elijah,</hi> Nay, that is not ſo much, find me out but ſuch a Prophet as <hi>Elijah,</hi> and then, who would not do as the widow hath done? Say you ſo? If you are ſo well minded, I will find you out a greater Prophet then this, what think you of Jeſus Chriſt? what you do to <hi>one of the leaſt of his Prophets,</hi> you do to him, and he will ſet it <hi>upon his own ſcore,</hi> if it be but a cup of cold water.</p>
+               <p>Or if you will take it litterally, as it ſounds, and as it was ſpoken, would you have been willing thus to have entertained ſuch a Pro<g ref="char:EOLhyphen"/>phet as <hi>Elijah,</hi> if you had been in the wi<g ref="char:EOLhyphen"/>dows ſtead.</p>
+               <p>I doubt me that too, for he was ſome<g ref="char:EOLhyphen"/>what <hi>a rough</hi> and <hi>plain ſpoken Prophet,</hi> he was the Prophet by whoſe meanes the famine was ſo long continued: and (<hi>verſe</hi> 1.) you
+<pb n="32" facs="tcp:102525:18"/>may ſee, <hi>that his zeal pinched them all.</hi>
+               </p>
+               <p>In which caſe I know not vvhat you vvould have done, but I vvill tell you vvhat others have done.</p>
+               <p>Within tvvo chapters from this in hand, you may find a <hi>country woman of this widow's,</hi> that (upon an expreſſion of his zeal) ſent him ſo kind a meſſage, that <hi>he was faine to fly for his life.</hi> And you may have another inſtance <hi>from Ahab in a like caſe</hi> to this in hand, in caſe of another famine whereof <hi>Eliſha</hi> had pro<g ref="char:EOLhyphen"/>pheſied. <hi>God do ſo to me, and more alſo,</hi> (ſaith he) <hi>if the head of</hi> Eliſha (<hi>the ſon of</hi> Shaphat) <hi>ſhall ſtand on him this day.</hi> And <hi>Herod</hi> after<g ref="char:EOLhyphen"/>vvard did it to <hi>John the Baptist</hi> (that came <hi>in the power of Elijah</hi>) for a little plain language in his ſermon, he made his head flie off his ſhoulders. This vvas the entertainment that they gave to ſuch a Prophet.</p>
+               <p>Will you now ſee, how this Prophet (that had done the like) was entertained by our poore widow? <hi>Abiit &amp; fecit: Shall I tell you</hi> what that is, <hi>by way of Co<g ref="char:cmbAbbrStroke">̄</g>ment</hi> on theſe words.</p>
+               <p>Firſt, <hi>He asked water,</hi> and ſhe grants it:</p>
+               <p>Then <hi>he asked bread;</hi> ſhe ſaith, ſhe hath none,
+<pb n="33" facs="tcp:102525:18"/>and (good woman) ſhe ſwears ſhe hath none.</p>
+               <p>By which eager expreſſion of her ſelfe, ſhe both excuſeth, and cleares her deniall, and ſhows <hi>how ſorry ſhe is,</hi> that ſhe muſt deny, and <hi>how ready ſhe would have beene to have given</hi> her bread too, if ſhe had had it.</p>
+               <p>And withall (which he did not demand) ſhe <hi>confeſſeth how much, or rather how little,</hi> flower, &amp; oyle ſhe had in her houſe, that ſo by that flower, &amp; oyle, <hi>ſhe might win him to ſtay,</hi> though ſhe had not bread for him at preſent.</p>
+               <p>Well, vvhen all her ſtore vvas reckoned, it proved <hi>little enough for her ſelf and her ſon,</hi> to keep them alive till the next day.</p>
+               <p>The <hi>Prophet begges that of her,</hi> and ſhe grants it, but he vvill have her go preſently to her houſe, he vvill have her <hi>make it ready,</hi> and he vvill have her come back to him to the gate, vvhere they talked together, and <hi>bring it thither.</hi>
+               </p>
+               <p>She grants this too, <hi>and all this ſervice,</hi> all this Charity to the <hi>Prophet Elijah,</hi> the only man that brought the famine upon them.</p>
+               <p>All this to him, and <hi>to him all this without any diſpute,</hi> vvithout <hi>any delay,</hi> vvithout bid<g ref="char:EOLhyphen"/>ding
+<pb n="34" facs="tcp:102525:19"/>him come (at leaſt) to fetch it, and vvithout <hi>conditioning</hi> for a ſhare out of it, to relieve her ſelfe, and her ſon, being ſo put to it: She is as brief as ſhe is admirable. Not a vvord for her ſelf, but <hi>(abiit &amp; fecit).</hi>
+               </p>
+               <p n="3">3 And novv I have brought you directly upon that vvhich is the emphaſis, and life of all, in the manner <hi>[Abiit &amp; fecit]</hi> and in <hi>the order [juxta verbum Eliae]</hi> If I may borrovv a vvord or tvvo <hi>of them both together,</hi> they ſhovv that ſhe did it <hi>with obedience, and rea<g ref="char:EOLhyphen"/>dineſſe,</hi> and <hi>labour,</hi> and <hi>ſilence,</hi> and <hi>humility,</hi> and vvith any thing elſe, vvherevvith it lay in her povver, to ſend out her <hi>Charity,</hi> like the <hi>Queen of vertues,</hi> that ſhould ever <hi>be at<g ref="char:EOLhyphen"/>tended with ſome followers or other, fit to wait upon her.</hi>
+               </p>
+               <p>For if ſhe had barely given her almes, ſhe had made God <hi>a debtor only for the gift,</hi> but now, when ſhe is ſo <hi>ſerviceable,</hi> ſo <hi>quick,</hi> ſo <hi>ſo<g ref="char:EOLhyphen"/>licitous,</hi> and <hi>ambitious</hi> of it, ſhe hath ſo farre ingaged the King of Heaven, that he will have a <hi>miracle (in the mouth of the Prophet)</hi> to make her a <hi>preſent requitall,</hi> for ſuch a com<g ref="char:EOLhyphen"/>pleat Charity as that.</p>
+               <pb n="35" facs="tcp:102525:19"/>
+               <p>And indeed, if <hi>Abraham</hi> the Father of the Faithfull, that was ſo much confirmed, by of<g ref="char:EOLhyphen"/>ten conference with God himſelfe. If he was <hi>no otherwiſe rewarded,</hi> then with a <hi>miracle in his Iſaack:</hi> It cannot be that this <hi>roſe among the thornes,</hi> this woman of <hi>Sidon</hi> that (in regard of the place wherein ſhe lived) was (her ſelfe) a <hi>ſingular</hi> mirrour, of faith, and love, and o<g ref="char:EOLhyphen"/>bedience: It <hi>cannot</hi> be that ſhe <hi>ſhould be other<g ref="char:EOLhyphen"/>wiſe rewarded</hi> then <hi>in the like preſervation</hi> of her ſelfe, and <hi>her only ſonne.</hi>
+               </p>
+               <p>For (if you look well upon it) <hi>what ſhe hath done,</hi> is <hi>not much unlike to that of Abraham.</hi>
+               </p>
+               <p>
+                  <hi>Abraham was commanded by God to ſacrifice the life of his only ſonne,</hi> and <hi>Abiit &amp; fecit,</hi> he went about it.</p>
+               <p>She <hi>was intreated by the Prophet,</hi> to <hi>offer up all the proviſion</hi> that was then left to preſerve the life of her onely ſonne, and her ſelfe too; and ſhe went as willingly about it.</p>
+               <p>He went about it <hi>ſecundum verbum Domini,</hi> juſt in that manner as God had commanded,</p>
+               <p>And <hi>She went about it, juxta verbum Eliae.</hi> that is, according to the word of <hi>Elijah.</hi>
+               </p>
+               <p>In either act, In his, and in hers, there
+<pb n="36" facs="tcp:102525:20"/>was ſo much <hi>Faith,</hi> and <hi>Love,</hi> and <hi>Obedience,</hi> that I know not which I ſhould firſt admire.</p>
+               <p>But ſhall I <hi>compare them</hi> in that, which comes nearer to <hi>the act in hand.</hi>
+               </p>
+               <p>How did <hi>Abraham</hi> behave himſelfe, when he was to be Charitable, and Hoſpitable, and how did ſhe?</p>
+               <p>
+                  <hi>Abraham</hi> was a <hi>rich</hi> man, and a <hi>great</hi> Prince that had a multitude of ſervants ready at command, &amp; yet in the exerciſe of Charity he would <hi>rather imploy himſelfe, then his ſervants.</hi>
+               </p>
+               <p>And what doth the good widow here? ſhe doth whatſoever the Prophet deſires, and whatſoever ſhe is able, &amp; <hi>ſhe doth it all herſelf.</hi>
+               </p>
+               <p>And there would be little difference, if <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> place, and wealth, had not made his ſer<g ref="char:EOLhyphen"/>vice and humility the more conſpicuous.</p>
+               <p>What ſhall we ſay then? If the great <hi>Patri<g ref="char:EOLhyphen"/>arck in the midſt of his wealth;</hi> If the <hi>good widow in the extremity of her poverty;</hi> If both ofthem were ſo ſtudious, and <hi>obſervant of the poore, as if they had met with ſome great Benefactors:</hi>
+               </p>
+               <p>If theſe righteous ſoules <hi>hunted after Cha<g ref="char:EOLhyphen"/>rity,</hi> and have ſo <hi>embraced it,</hi> and pleaſed themſelves in it, ſhould vve (poor ſinners)
+<pb n="37" facs="tcp:102525:20"/>either wholy neglect ſuch <hi>a ſoveraigne cordiall</hi> againſt ſinne, or, (at leaſt <hi>performe it ſo state<g ref="char:EOLhyphen"/>ly, or ſo coolely,</hi> as if we had never heard of theſe motives, and patternes, which they have richly afforded unto us?</p>
+               <p>Alas to <hi>give almes,</hi> in it ſelfe is <hi>no ſuch great matter;</hi> ſpecially in <hi>the rich</hi> (who are <hi>as God's stewards</hi> over the poore) It <hi>is not ſo much fa<g ref="char:EOLhyphen"/>vour</hi> in them, as <hi>indeed Justice,</hi> and ſo <hi>plaine injury not to do it.</hi>
+               </p>
+               <p>Why elſe do the Hebrew ſo often expreſſe Charity by <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies juſtice?</p>
+               <p>Why doth the Greeke ſay (<hi>Syrach:</hi> 4.<note place="margin">
+                     <hi>Sap.</hi> 4.1.</note>) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: the ſame (in effect) with that of <hi>Salomon,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 3.27.</note> 
+                  <hi>keepe not thy goods from the owner of it;</hi> that is, <hi>give ſome</hi> to the poore, <hi>they have a right</hi> to that part which is ſuper<g ref="char:EOLhyphen"/>fluous?</p>
+               <p>Why doe the Latine render, <hi>Juſtitia</hi> for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:<note place="margin">
+                     <hi>Mat.</hi> 6.1.</note> 
+                  <hi>Nolite facere</hi> juſtitiam <hi>veſtram coram hominibus,</hi> doe not your <hi>Almes</hi> before men.</p>
+               <p>Doth not all this conclude, that, it is no ſuch matter (in it ſelfe) to give almes? <hi>It is no more then our duty.</hi>
+               </p>
+               <pb n="36" facs="tcp:102525:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:102525:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:102525:22"/>
+               <p>But how then? (you will ſay) why, this is a great matter, to give almes <hi>according to the patterne</hi> ſet by the widow here: to give it <hi>ſeaſonably,</hi> to give it <hi>chearfully,</hi> to give it <hi>with her ſervice and humility,</hi> to <hi>the extent of her meanes,</hi> upon ſo good an occaſion.</p>
+               <p>This is it that is worthy of notice and ad<g ref="char:EOLhyphen"/>miration: for there is nothing ſo ſure, as that <hi>God requires our almes</hi> deeds, not ſo much <hi>for the good of them that receive, as of them that give.</hi> Or elſe <hi>he is able enough to ſupply the poore,</hi> without being beholden to the rich.</p>
+               <p>And therefore you ſhall ever find, that he is more <hi>earneſt about the manner of giving,</hi> then about the thing it ſelfe: it is not a giver but a <hi>chearfull giver</hi> that he reſpects.</p>
+               <p>See it here in the caſe in hand.</p>
+               <p>Was it any ſuch great matter, <hi>that</hi> Elijah <hi>ſhould come ſo great a journey,</hi> to be entertained by a poore widow with bread and water?</p>
+               <p>Could not Almighty God have furniſhed him ſtill with better proviſion, by <hi>the ſervice of a Raven,</hi> as he did before?</p>
+               <p>Yes, he could have done it, nothing more eaſily: but that was the leaſt intent in the Prophets miſſion.
+<pb n="39" facs="tcp:102525:22"/>This was rather <hi>the thing that was aimed at:</hi> to <hi>ſhow,</hi> and <hi>to crowne</hi> the widowes Charity. To make it appeare, how <hi>preſently</hi> without any query, without <hi>any ſcruple,</hi> without any <hi>partiality,</hi> or favour to her owne urgent ne<g ref="char:EOLhyphen"/>ceſſity, ſhe went about it, how <hi>readily, and heartily,</hi> not onely as a <hi>chearfull,</hi> but as an <hi>humble</hi> and a <hi>dutifull</hi> giver.</p>
+               <p>This is (if any thing can be) to make ſure for that, wherein the life of a good action conſiſts, <hi>ſo to be Charitable as we ſhould be,</hi> and as <hi>we ſhall be,</hi> if we follow the <hi>rich patterne</hi> of this <hi>poore widow,</hi> and <hi>take it out by our owne practice.</hi>
+               </p>
+               <p>Which that we may be able, and willing to doe. So he grant, who is the God of all mercy and compaſſion, to whom —</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
